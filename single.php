@@ -6,5 +6,4 @@
   } else {
       include(TEMPLATEPATH.'/single-default.php');
   }
-  // test
 ?>
